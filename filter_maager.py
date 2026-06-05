@@ -1,0 +1,1 @@
+# Registry filter OpenCV + compositing
